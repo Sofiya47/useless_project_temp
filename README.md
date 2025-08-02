@@ -71,9 +71,7 @@ For Software:
 
 ### Project Demo
 # Video
-<video controls>
-  <source src="Recording 2025-08-02 163504.mp4" type="video/mp4">
-</video>
+https://drive.google.com/file/d/1Xvv1Y9sErLy-Y3WhAOiMOsYlpGd_3R8h/view?usp=sharing
 
 
 
